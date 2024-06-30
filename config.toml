@@ -5,3 +5,5 @@
 theme = ["hugo-shortcode-gallery", "LoveIt"]
 [imaging.exif]
     includeFields = ".*"
+
+timeout = 60000
